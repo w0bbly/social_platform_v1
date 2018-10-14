@@ -1,0 +1,10 @@
+#container {
+    text-align: center;
+}
+
+#container .feed_topic {
+    min-height      : 100px;
+    min-width       : 100px;
+    background-color: aqua;
+    border          : 1px dashed black;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "pess_platform",
+  "version": "1.0.0",
+  "description": "Plataforma do pess",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "jquery": "^3.3.1"
+  },
+  "keywords": [
+    "js",
+    "nodejs",
+    "cordova",
+    "jquery"
+  ],
+  "author": "Pess",
+  "license": "MIT"
+}
