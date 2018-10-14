@@ -11,6 +11,7 @@
     "url": "git+https://github.com/jfct/social_platform_v1.git"
   },
   "dependencies": {
+    "cordova": "^8.1.2",
     "express": "^4.16.4",
     "jquery": "^3.3.1"
   },
