@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfct/social_platform_v1.git"
+  },
   "dependencies": {
     "express": "^4.16.4",
     "jquery": "^3.3.1"
